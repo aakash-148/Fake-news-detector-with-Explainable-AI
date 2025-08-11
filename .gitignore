@@ -1,0 +1,14 @@
+# Python environment
+__pycache__/
+venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# Large files and models
+models/
+data/
+*.csv
+*.pkl
+*.bin
+*.h5
