@@ -1,6 +1,7 @@
 # Python environment
 __pycache__/
 venv/
+data/
 
 # Jupyter notebooks
 .ipynb_checkpoints
